@@ -1,11 +1,10 @@
 // Welcome to the magical zoo! Your task is to create and manage a list of magical creatures. Let's have some fun!
 
 // 1. Declare a variable named 'creatureName' and assign it a magical creature's name as a string..
-
-
+let wolf = "creatureName"
 
 // 2. Declare a variable named 'creatureDescription' and describe its magical properties as a string.
-
+let black = "creatureDescription"
 
 // 3. Do you believe that this creature is friendly to humans? 
 // Declare a variable named 'isFriendly' and assign it a boolean value
